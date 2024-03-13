@@ -1,1 +1,1 @@
-This is a repo used to practice git - A version control system.
+This repo is used for to test the VSCode with git purpose.
